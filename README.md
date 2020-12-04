@@ -7,17 +7,15 @@
 
 __Install the dependencies in the terminal :__
 
-    ```
     - npm i body-parser
 
     - npm i dotenv
-    
+
     - npm i express
 
     - npm i express-ip
 
     - npm i mongoose
-    ```
 
 ## 🙎‍♂️ Author
 
