@@ -21,5 +21,5 @@ mongoose.connect( process.env.DB_CONNECT,
 app.use('/faction/minage', FactionRoute);
 
 app.listen(8080, () => {
-    console.log(`Je suis bien start CONNARD !! Sur le PORT: 8080`)
+    console.log(`I am starting on the PORT: 8080`)
 })
