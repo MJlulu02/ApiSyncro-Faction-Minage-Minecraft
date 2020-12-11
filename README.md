@@ -1,5 +1,5 @@
 ## <h1>📍 ApiSyncro By MJlulu02</h1>
-[![HitCount](http://hits.dwyl.com/{username}/{project}.svg)](http://hits.dwyl.com/{username}/{project})
+[![HitCount](http://hits.dwyl.com/MJlulu02/ApiSyncro-Faction-Minage-Minecraft.svg)](http://hits.dwyl.com/MJlulu02/ApiSyncro-Faction-Minage-Minecraft)
 
 - ⚔️ Made for Minecraft Pvp-Faction Server
 - 🏆 Synchronisation between Mine server and Faction server
